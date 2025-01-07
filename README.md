@@ -48,7 +48,7 @@ The Dudi Sela Tennis Academy is a premier institution dedicated to nurturing ten
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/doronkabaso/DudiSelaFlutterCourtBookingApp.git
+   git clone https://github.com/doronkabaso/Dudi-Sela-Flutter-Court-Booking-App.git
    cd DudiSelaFlutterCourtBookingApp
    ```
 
@@ -86,7 +86,7 @@ The Dudi Sela Tennis Academy is a premier institution dedicated to nurturing ten
 
 ## Feedback
 
-For suggestions or issues, please raise them in the [GitHub repository](https://github.com/doronkabaso/DudiSelaFlutterCourtBookingApp/issues).
+For suggestions or issues, please raise them in the [GitHub repository](https://github.com/doronkabaso/Dudi-Sela-Flutter-Court-Booking-App/issues).
 
 ## Resources
 
